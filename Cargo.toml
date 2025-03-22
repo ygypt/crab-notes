@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 iocraft = "0.7"
+smol = "2"
